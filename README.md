@@ -24,6 +24,11 @@
 
 - Upernet-Swin - implementation of UperNet with Swin Backbone and diffusion model for data augmentation.
 - Unet_Segformer - implementation of UNet with SWin Backbone.
+##
+### 🦗 Extra Files
+
+- output.md - contains outputs for SAM
+  
 ---
 
 ## 🤓 Conclusion
