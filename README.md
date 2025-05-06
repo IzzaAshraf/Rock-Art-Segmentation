@@ -18,12 +18,13 @@
 - YOLOV7_Cropping - implementation of Roboflow's pretrained YOLOV7 model to crop images from a new dataset.
 - SAM - implementation of SAM VIT for image segmentation on LUMS dataset.
 - MaskRCNN - implementation of MaskRCNN for image segmentation on LUMS & Roboflow dataset.
-- DeeplabV3+ - implementation of DeeplabV3+ for image segmentation on LUMS & Roboflow dataset.
+- DeeplabV3 - implementation of DeeplabV3 for image segmentation on LUMS & Roboflow dataset.
+- Segformer - implementation of Segformer for image segmentation on LUMS & Roboflow dataset.
 ##
 ### 💡 Final Improvement
 
 - Upernet-Swin - implementation of UperNet with Swin Backbone and diffusion model for data augmentation.
-- Unet_Segformer - implementation of UNet with SWin Backbone.
+- Unet_Segformer - implementation of UNet with Swin Backbone.
 ##
 ### 🦗 Extra Files
 
